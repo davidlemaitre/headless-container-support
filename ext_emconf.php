@@ -10,8 +10,8 @@ $EM_CONF[$_EXTKEY] = [
     'constraints' => [
         'depends' => [
             'typo3' => '11.5.0-12.99.9',
-            'container' => '3.0.4-3.99.99',
-            'headless' => '1.6.0-1.99.99',
+            'container' => '1.6.0-2.99.99',
+            'headless' => '3.0.4-4.99.99',
         ]
     ],
 ];
